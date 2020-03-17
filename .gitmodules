@@ -4,3 +4,6 @@
 [submodule "justinyhuang.github.io"]
 	path = justinyhuang.github.io
 	url = git@github.com:justinyhuang/justinyhuang.github.io.git
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git

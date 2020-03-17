@@ -1,0 +1,9 @@
+[en]
+title = "Talk Less Think More"
+languageName = "English"
+weight = 1
+
+[cn]
+title = "一本本子"
+languageName = "中文"
+weight = 2
