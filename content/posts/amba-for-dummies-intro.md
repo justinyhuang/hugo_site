@@ -1,7 +1,6 @@
 ---
-title: "Amba for Dummies Intro"
+title: "Amba for Dummies : Intro"
 date: 2020-03-16T09:50:51-06:00
-draft: true
 ---
 ![cover](/galleries/amba_for_dummies.jpg)
 This is a new personal project of mine. I build this dummy book with my personal notes when learning AMBA.
@@ -11,6 +10,8 @@ This is a new personal project of mine. I build this dummy book with my personal
 So initially it will be a list of reading notes / memos. The plan is to first prepare the building blocks, polish them, and then put them in places the way a book is produced.
 
 Below is the currently up-to-date road map of understanding the AMBA:
+
+[Preface](/posts/amba-for-dummies-preface)
 
 1. Top Level View of AMBA
     - Generations and History
