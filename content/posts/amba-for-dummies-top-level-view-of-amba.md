@@ -25,13 +25,13 @@ Today the scope of AMBA has gone far beyond the micro controller devices and es
 
 A picture that I stole from the internet, Pic1, illustrates how the AMBA compliant buses (AHB/ASB/APB) connects different ASIC blocks and enables the communication among them.
 
-![pic1](/galleries/amba_top_level_pic1.jpg)
+![pic1](/galleries/amba_top_level_1.png)
 
 **Generations and History**
 
 Up to now there are 5 generations of AMBA developed by ARM (shown in Pic2, yes another picture that I stole from the internet just because I am lazy)
 
-![pic2](/galleries/amba_top_level_pic2.jpg)
+![pic2](/galleries/amba_top_level_2.png)
 
 **AMBA Protocols**
 
